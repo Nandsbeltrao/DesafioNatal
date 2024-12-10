@@ -41,7 +41,8 @@ import Presente from "/presentes.png";
 
         h3{
             color: #CD3C32;
-            line-height: 3;
+            line-height: 2.3;
+            font-size: 3.2rem;
         }
     }
 </style>
