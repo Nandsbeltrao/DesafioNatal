@@ -14,7 +14,6 @@
 - **⏱️ Cronômetro de Contagem Regressiva:** Para acompanhar a proximidade do Natal.
 - **❤️ Área de Doações:** Uma seção dedicada para incentivar e facilitar doações.
 - **👣 Rodapé Informativo:** Com detalhes e links importantes.
-- **📱 Responsividade:** Adaptado para diversos dispositivos, proporcionando uma experiência perfeita.
 
 ---
 
