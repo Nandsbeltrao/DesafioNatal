@@ -20,7 +20,7 @@ import Presente from "/presentes.png";
     section{
         
     text-align: center;
-    margin-top: 5.5rem;
+    margin-top: 10rem;
 
         h2,h3{
             font-family: "Archivo", sans-serif;

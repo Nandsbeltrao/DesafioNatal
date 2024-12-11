@@ -74,13 +74,14 @@
 
         button{
             border: none;
-            padding: 1rem 1rem;
-            border-radius: 3px;
+            padding: 1rem 2.5rem;
+            border-radius: 4px;
             position: relative;
             left: 27.8rem;
             bottom: 8rem;
             background-color: #CD3C32;
             font-family: "Archivo", sans-serif;
+            font-size: 1rem;
             font-weight: 600;
             color: white;
             cursor: pointer;
